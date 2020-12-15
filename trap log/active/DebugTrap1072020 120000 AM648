@@ -1,0 +1,11 @@
+*** SNMP Version 2 TRAP received from: 10.42.8.200:32788
+*** Community: public
+*** VarBind count: 6
+*** VarBind content:
+1.3.6.1.4.1.6302.2.1.4.1.1,Counter32,348
+1.3.6.1.4.1.6302.2.1.4.1.2,OctetString,07 E4 0A 07 14 1B 2B 00 2B 00 00
+1.3.6.1.4.1.6302.2.1.4.1.3,Integer32,1
+1.3.6.1.4.1.6302.2.1.4.1.4,Integer32,6
+1.3.6.1.4.1.6302.2.1.4.1.5,OctetString,DC Output 5 Disconnected, its owner: DC Distrib1
+1.3.6.1.4.1.6302.2.1.4.1.6,Integer32,19607559
+** End of SNMP Version 2 TRAP data.

@@ -1,0 +1,11 @@
+** SNMP Version 2 TRAP received from: 10.42.8.207:1100
+*** Community: public
+*** VarBind count: 6
+*** VarBind content:
+1.3.6.1.4.1.6302.2.1.4.1.1,Counter32,1214
+1.3.6.1.4.1.6302.2.1.4.1.2,OctetString,07 E4 0A 07 14 1E 14 00 2B 00 00
+1.3.6.1.4.1.6302.2.1.4.1.3,Integer32,2
+1.3.6.1.4.1.6302.2.1.4.1.4,Integer32,3
+1.3.6.1.4.1.6302.2.1.4.1.5,OctetString,Under-voltage, its owner: ACU System
+1.3.6.1.4.1.6302.2.1.4.1.6,Integer32,66308
+** End of SNMP Version 2 TRAP data.

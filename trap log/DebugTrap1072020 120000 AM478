@@ -1,0 +1,8 @@
+*** SNMP Version 1 TRAP received from: 10.42.8.219:42009
+*** Trap generic: 6
+*** Trap specific: 0
+*** Agent address: 10.42.8.219
+*** Timestamp: 172212917
+*** VarBind count: 1
+1.3.6.1.4.1.29462.10.1.12.0.10,OctetString,alarm bus-ID 0 unit 1: return air humidity too high
+** End of SNMP Version 1 TRAP data.
